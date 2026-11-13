@@ -84,7 +84,7 @@ That's what I wanted to build with this project.
 
 **Built with:** Python · Gemini · OpenAI Agents SDK · Gradio · SQLite
 
-[Explore my repositories →](https://github.com/Priyanka06yadav)
+[Explore my repositories →](https://github.com/Priyanka06yadav/digital-twin)
 
 </details>
 
