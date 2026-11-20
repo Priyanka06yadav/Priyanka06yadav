@@ -1,160 +1,100 @@
-<!-- ================= HEADER ================= -->
+# 👋 Hi, I'm Priyanka Yadav
 
-<h1 align="center">Hey, I'm Priyanka! 👋</h1>
+### Data Scientist | AI/ML Engineer | Agentic AI Enthusiast
+
+I'm a Data Scientist with a background in Chemical Engineering from **IIT Roorkee**, currently working at **Turing**.
+
+I'm passionate about building intelligent systems using Machine Learning, Generative AI, and Agentic AI. I enjoy turning ideas into practical applications and exploring how AI agents can reason, collaborate, use tools, and solve complex problems.
+
+Currently exploring the engineering side of AI — building reliable, scalable, and autonomous AI applications.
+
+---
+
+## 🚀 What I'm Up To
+
+- Building multi-agent systems using CrewAI.
+- Exploring agentic workflows, tool calling, and LLM orchestration.
+- Developing AI applications with Python, APIs, and Docker.
+- Learning to build and evaluate production-ready AI systems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Machine Learning & Generative AI**
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-222222?style=flat-square)
+
+**Tools & Development**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 💡 Featured Projects
+
+**🤖 Multi-Agent Coding Assistant**
+
+A CrewAI-powered coding assistant that generates Python solutions, executes code, evaluates test cases, and iteratively debugs failed solutions.
+
+`CrewAI` `Python` `Docker` `Multi-Agent Systems`
+
+**📈 AI-Powered Stock Picker**
+
+An AI-powered stock analysis project exploring specialized agents, coordinated workflows, and automated analysis.
+
+`CrewAI` `Python` `Docker` `SQL`
+
+**🧠 AI-Powered Personal Digital Twin**
+
+An interactive AI assistant with conversational memory, tool calling, streaming responses, and persistent storage.
+
+`Gemini` `OpenAI Agents SDK` `SQLite` `Gradio`
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+AI%2FML+Engineer;Building+with+LLMs+and+AI+Agents;Exploring+RAG+%26+Multi-Agent+Systems;Turning+ideas+into+working+AI+applications" alt="Typing introduction" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Priyanka06yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Priyanka06yadav&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Priyanka06yadav">
-    <img src="https://img.shields.io/badge/GitHub-Priyanka06yadav-161B22?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-8A63D2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-India-138808?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka06yadav&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### A little about me
+## 🌱 Currently Learning
 
-I'm a Data Scientist who enjoys taking AI ideas beyond notebooks and turning them into working applications.
-
-Lately, I've been spending a lot of time building with LLMs, experimenting with AI agents, and understanding how different pieces of an AI system work together.
-
-I particularly enjoy projects where I get to combine problem-solving, Python, and a little bit of experimentation.
-
-**Currently exploring:** Agentic AI · RAG · Multi-Agent Systems · LLM Applications
+Agentic AI • Multi-Agent Architecture • LLM Evaluation • AI System Design • Production AI Engineering
 
 ---
 
-### What I work with
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-yadav-439ba1239)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka06yadav)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pytorch,tensorflow,sklearn,fastapi,flask,git,github,vscode&perline=5" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
-</p>
-
----
-
-### Things I've been building 🚀
-
-A few projects I've worked on recently. Click on each one to see more about the implementation.
-
-<details open>
-<summary><b>🔎 Deep Research Agent — Multi-Agent AI Research System</b></summary>
-
-<br/>
-
-A research assistant that brings together multiple AI agents to search the web, gather information, and turn research findings into structured reports.
-
-- Multi-agent orchestration using the OpenAI Agents SDK.
-- Gemini-powered research and content generation.
-- Web search using Tavily.
-- Structured report generation and email delivery.
-- Gradio-based user interface.
-
-**Built with:** Python · Gemini · Tavily · OpenAI Agents SDK · Gradio
-
-[Explore the repository →](https://github.com/Priyanka06yadav/deep-research-agent)
-
-</details>
-
-<details>
-<summary><b>🤖 Personal Digital Twin — An AI Version of Me</b></summary>
-
-<br/>
-
-What if someone could ask an AI about my professional journey and get answers even when I'm not around?
-
-That's what I wanted to build with this project.
-
-- Uses Gemini 2.5 Flash for conversational responses.
-- Agent workflow with custom function tools.
-- Visitor-specific conversation sessions.
-- SQLite-backed conversation memory.
-- Streaming responses through a Gradio interface.
-- Deployed on Render.
-
-**Built with:** Python · Gemini · OpenAI Agents SDK · Gradio · SQLite
-
-[Explore my repositories →](https://github.com/Priyanka06yadav/digital-twin)
-
-</details>
-
-<details>
-<summary><b>☀️ Solar Optimization Advisor Agent</b></summary>
-
-<br/>
-
-An AI agent project exploring how intelligent systems can help with solar optimization and decision-making.
-
-[Explore the repository →](https://github.com/Priyanka06yadav/Solar-Optimization-Advisor-Agent)
-
-</details>
-
-<details>
-<summary><b>🎬 YouTube RAG</b></summary>
-
-<br/>
-
-Exploring Retrieval-Augmented Generation to work with YouTube content and make information easier to retrieve.
-
-[Explore the repository →](https://github.com/Priyanka06yadav/Youtube-RAG)
-
-</details>
-
-<details>
-<summary><b>🎵 AI Music Marketing Intelligence System</b></summary>
-
-<br/>
-
-An AI and data-focused project exploring music marketing intelligence.
-
-[Explore the repository →](https://github.com/Priyanka06yadav/AI-Music-Marketing-Intelligence-System)
-
-</details>
-
-<details>
-<summary><b>📚 Machine Learning Projects</b></summary>
-
-<br/>
-
-A collection of machine learning experiments, implementations, and notebooks.
-
-[Explore the repository →](https://github.com/Priyanka06yadav/mlprojects)
-
-</details>
-
----
-
-### My GitHub activity 📈
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanka06yadav&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka06yadav&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanka06yadav&theme=github-dark-blue&hide_border=true" />
-</p>
-
-### Let's connect!
-
-I'm always interested in connecting with people who enjoy building things with AI and exploring new ideas.
-
-<p align="center">
-  <a href="https://github.com/Priyanka06yadav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Currently building, experimenting, and figuring out what AI can do next. ✨</i>
+  <i>"Building, learning, experimenting, and making AI work."</i> 🚀
 </p>
