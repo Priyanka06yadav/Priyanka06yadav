@@ -1,9 +1,7 @@
 <img width="2000" height="700" alt="_N9hML3-mpbipKX4s_WYOgeslgrMFL1g3s01SscQRJgGiTMEeMIda5TAhEqyc6L5eEwltyN2OvNFS6HS6_3VwiRBIQKMlWeofjoUo0uzY90JaXB4Ah5ypP9Rw_PQWQb7hf7_eD-Cj-zkf-jke-p1Mgr6bHGL0oiSC95GplFvsO10IIe-zEISaVhKdbP5fTQ2" src="https://github.com/user-attachments/assets/30983313-dc1b-4373-a468-561ecf9df51c" />
 
 
-# 👋 Hi, I'm Priyanka Yadav
-
-### Data Scientist | AI/ML Engineer | Agentic AI Enthusiast
+# 👋 Hi there
 
 I'm a Data Scientist with a background in Chemical Engineering from **IIT Roorkee**, currently working at **Turing**.
 
