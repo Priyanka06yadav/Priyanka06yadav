@@ -1,4 +1,5 @@
-<img width="1024" height="576" alt="Jg3t2lt9WsSuRvOwew101oDcxvUJiRzCWT1YPys9jAl_57vR0zlcJ_qv6SvXulilaf-G3pAW7LsdhyBopsAZYDOMAEKkoPzNJHmfDO8CcnNFI0QvHO-zKObyhEYf6mIgD3EiYVxeb6LerDZ5y7S1RaYfonlwyT4H8vA9iNl-bxDp2wZHdxKiOsPxDhrK2idy" src="https://github.com/user-attachments/assets/0393f4fc-8292-4ae3-be15-f0f9c63da0be" />
+<img width="2000" height="700" alt="_N9hML3-mpbipKX4s_WYOgeslgrMFL1g3s01SscQRJgGiTMEeMIda5TAhEqyc6L5eEwltyN2OvNFS6HS6_3VwiRBIQKMlWeofjoUo0uzY90JaXB4Ah5ypP9Rw_PQWQb7hf7_eD-Cj-zkf-jke-p1Mgr6bHGL0oiSC95GplFvsO10IIe-zEISaVhKdbP5fTQ2" src="https://github.com/user-attachments/assets/30983313-dc1b-4373-a468-561ecf9df51c" />
+
 
 # 👋 Hi, I'm Priyanka Yadav
 
