@@ -1,13 +1,10 @@
-<img width="2000" height="700" alt="_N9hML3-mpbipKX4s_WYOgeslgrMFL1g3s01SscQRJgGiTMEeMIda5TAhEqyc6L5eEwltyN2OvNFS6HS6_3VwiRBIQKMlWeofjoUo0uzY90JaXB4Ah5ypP9Rw_PQWQb7hf7_eD-Cj-zkf-jke-p1Mgr6bHGL0oiSC95GplFvsO10IIe-zEISaVhKdbP5fTQ2" src="https://github.com/user-attachments/assets/30983313-dc1b-4373-a468-561ecf9df51c" />
-
-
 # 👋 Hi there
 
-I'm a Data Scientist with a background in Chemical Engineering from **IIT Roorkee**, currently working at **Turing**.
+I'm a Data Scientist with a degree in Chemical Engineering from **IIT Roorkee**, currently working at **Turing**.
 
-I'm passionate about building intelligent systems using Machine Learning, Generative AI, and Agentic AI. I enjoy turning ideas into practical applications and exploring how AI agents can reason, collaborate, use tools, and solve complex problems.
+I enjoy working at the intersection of Machine Learning and AI, especially Generative AI and Agentic AI. Lately, I've been spending a lot of time building AI-powered applications, experimenting with LLMs, and exploring how AI agents can use tools, work together, and solve real-world problems.
 
-Currently exploring the engineering side of AI — building reliable, scalable, and autonomous AI applications.
+I like learning by building, turning ideas into working projects, and understanding what goes on behind the scenes. I'm particularly interested in making AI applications more reliable, useful, and scalable.
 
 ---
 
