@@ -47,19 +47,19 @@ I like learning by building, turning ideas into working projects, and understand
 
 **🤖 Multi-Agent Coding Assistant**
 
-A CrewAI-powered coding assistant that generates Python solutions, executes code, evaluates test cases, and iteratively debugs failed solutions.
+An AI-powered coding assistant built with CrewAI that takes a programming task from idea to execution. It generates Python solutions, runs them in an isolated Docker environment, checks the output against test cases, and works through failures to improve the solution.
 
 `CrewAI` `Python` `Docker` `Multi-Agent Systems`
 
 **📈 AI-Powered Stock Picker**
 
-An AI-powered stock analysis project exploring specialized agents, coordinated workflows, and automated analysis.
+A multi-agent stock analysis application built with CrewAI, where specialized agents collaborate to turn stock-related requirements into structured analysis. The project explores how different AI agents can coordinate tasks, handle different responsibilities, and contribute to an end-to-end application workflow.
 
 `CrewAI` `Python` `Docker` `SQL`
 
 **🧠 AI-Powered Personal Digital Twin**
 
-An interactive AI assistant with conversational memory, tool calling, streaming responses, and persistent storage.
+An interactive AI digital twin designed to hold natural conversations and respond using personal context. Built with Gemini and the OpenAI Agents SDK, it combines conversational memory, tool calling, and persistent storage to create a more personalized assistant experience.
 
 `Gemini` `OpenAI Agents SDK` `SQLite` `Gradio`
 
