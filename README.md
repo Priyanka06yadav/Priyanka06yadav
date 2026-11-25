@@ -70,34 +70,7 @@ An interactive AI assistant with conversational memory, tool calling, streaming 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Priyanka06yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Priyanka06yadav&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka06yadav&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-Agentic AI • Multi-Agent Architecture • LLM Evaluation • AI System Design • Production AI Engineering
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-yadav-439ba1239)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka06yadav)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-</p>
-
-<p align="center">
-  <i>"Building, learning, experimenting, and making AI work."</i> 🚀
-</p>
